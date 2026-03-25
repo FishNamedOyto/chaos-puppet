@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "🎭 Chaos Puppet - A Game of Strategic Unpredictability",
+  title: " Chaos Puppet - A Game of Strategic Unpredictability",
   description: "Guide your mischievous puppet through chaos! But beware - it doesn't always listen... A unique browser game where unpredictability is the core mechanic.",
   keywords: ["game", "browser game", "puzzle", "chaos", "mobile game", "fun", "arcade"],
   authors: [{ name: "Chaos Puppet Games" }],
